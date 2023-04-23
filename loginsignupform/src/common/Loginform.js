@@ -54,7 +54,7 @@ export default function Loginform() {
             }
           />
           <Button variant="contained" sx={{ mt: 5, width: "100%" }}>
-            Sign In
+            Log In
           </Button>
           <div className="d-flex justify-content-between">
             <FormGroup>
